@@ -2,6 +2,7 @@
 Created on Wed Jan 22 13:48:13 2020
 @author: vvunnava
 Assignment_01, Exrecise_3.3, script for parts 1 & 2
+Program description: Code to generate 2x2 and 4x4 grids made of '+','-' & '|' symbols. 
 """
 
 #Excersie 3.3, Part 1
